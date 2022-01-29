@@ -4,7 +4,7 @@ A [Tampermonkey] script that gives you [Wordle] hints
 
 ### Demo
 
-![./demo.mov](./demo.mov)
+https://user-images.githubusercontent.com/544097/151672520-d0d03d9f-5d24-4938-a603-5579500e03ae.mov
 
 ### Install
 
