@@ -1,0 +1,7 @@
+.git
+.DS_Store
+.parcel-cache
+yarn.lock
+node_modules
+dist/*.local.js
+/tmp*
