@@ -1,4 +1,4 @@
-import defaultWords from './words-shamelessly-pulled-from-the-source-code.json';
+import defaultWords from './words.json';
 
 interface WordFrequency {
     map: Record<string, number>;
